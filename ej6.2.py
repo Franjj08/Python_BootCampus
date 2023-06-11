@@ -16,3 +16,4 @@ class ALumno:
 ALumno = ALumno('Alex',8)
 ALumno.imprimirNota()
 print(ALumno.EstaAprobado())
+    
