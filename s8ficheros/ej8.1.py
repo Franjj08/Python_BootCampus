@@ -3,5 +3,9 @@
 f = open('archivo.txt','w')
 f.write("datos\n")
 f.write("datos2\n")
-f.close
+f.close()
 
+f = open('archivo.txt', 'r')
+contenido = f.read()
+f.close()
+print(contenido)
