@@ -10,7 +10,7 @@ class Juguete:
         return self.nombre
 
 # j1 = Juguete("Potato", 10.5)
-# f = open('datos.bin','wb')#serilizar datos writ + binario
+# f = open('datos.bin','wb')#serilizar datos writ + binario cargar datos en disco
 # pickle.dump(j1,f)
 # f.close
 
